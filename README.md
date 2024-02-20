@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ryan West
-- 👀 I’m interested in Data Science and Database Systems
-- 🌱 I’m currently learning the basics of Data Science
+- 👀 I’m interested in Cyber Security
 - 🏫 I'm a 3rd year Computer Science student at the University of Victoria
 - 📫 Email me at grizzwest@hotmail.ca
 
